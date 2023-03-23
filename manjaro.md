@@ -136,8 +136,16 @@ or
 
 3. music dingtalk google-chrome
  paru -S qqmusic-bin dingtalk-bin google-chrome-bin  
- 
-4. zoxide
- fisher install jethrokuan/z 
+```
+
+## **Git** 
 
 ```
+git config –global user.name 'xxxxx'   
+git config –global user.email 'xxx@xx.xxx'
+
+ssh-keygen -t rsa -C 'xxx@xx.xxx'
+```
+
+
+
